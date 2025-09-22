@@ -3,3 +3,5 @@
 you already know what's about to go down in the near future
 
 https://zhdzwolf.github.io/cs2250-website-1/
+
+all requirement tags added, spread across 4 different webpages
